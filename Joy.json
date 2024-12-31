@@ -1,29 +1,110 @@
-{
-  "author": "Joy-Ahmed",
-  "autoRestart": true,
-  "accpetPending": false,
-  "developermode": false,
-  "language": "en",
-  "notification": false,
-  "approval": false,
-  "saveState": true,
-  "banMsg": false,
-  "adminOnlyMsg": false,
-  "BOTNAME": "Joy-bot",
-  "PREFIX": ".",
-  "OPERATOR": [
-    "61568646922201",
-    "100000121528628"
-  ],
-  "ADMINBOT": [
-    "61568646922201",
-    "100000121528628"
-  ],
-  "OWNER": ["61568646922201"], 
-  "APPROVED": [],
-  "disabledcmds": [],
-  "disabledevents": [],
-  "note": "make sure that the bot name you entered is all lowercase",
-  "notice": "dont cng author name and owner uid. otherwise bot not working",
-  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
-}
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261556809122761%22%3A%22DMaOwa8m%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.430Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "datr",
+        "value": "DPFzZ_QUq4GA89eMC1bjQUdn",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "sb",
+        "value": "DPFzZ8GBVCj9JfVShiA3TkYv",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "wd",
+        "value": "360x714",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61556809122761",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "fr",
+        "value": "05HRHsBoXqhnXUcER.AWUx2YiNMKzkq1IRqpFnVAqBzts.Bnc_EM..AAA.0.0.Bnc_Eb.AWV-IPGnuUI",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "xs",
+        "value": "35%3AetWJGGTCrb5GiQ%3A2%3A1735651615%3A-1%3A5122",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101433686%3BT%3A28927527",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2701%3Btimestamp%3A1735651621",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B714x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-12-31T13:27:19.431Z",
+        "lastAccessed": "2024-12-31T13:27:19.431Z"
+    }
+]
